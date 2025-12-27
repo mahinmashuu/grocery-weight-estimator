@@ -1,2 +1,2 @@
 # grocery-weight-estimator
-A python program that estimates grocery weight using dictionaries and loops.
+A python program that estimates total weight of groceries based on item type and quantity.
